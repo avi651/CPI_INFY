@@ -9,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  bloc: ^8.0.3
   rxdart:
   equatable: ^2.0.3
   http: ^0.13.4
@@ -21,7 +20,6 @@ dependencies:
   latlong2: ^0.8.1
   cupertino_icons: ^1.0.2
   nock: ^1.2.1
-  timeago: ^3.4.0
   intl: ^0.18.0
 
 dev_dependencies:
